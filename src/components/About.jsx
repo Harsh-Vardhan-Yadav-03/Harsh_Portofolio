@@ -21,7 +21,7 @@ const About = () => {
             <CardContent className="p-6 space-y-4">
               <h3 className="text-2xl font-semibold">Who I Am</h3>
               <p className="text-muted-foreground leading-relaxed">
-                I'm a Full Stack Developer from Bhubaneswar with a passion for building 
+                I'm a Frontend Developer with a passion for building 
                 innovative web applications. I specialize in creating scalable, user-friendly 
                 solutions that solve real-world problems.
               </p>
