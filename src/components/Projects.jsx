@@ -11,7 +11,7 @@ const Projects = () => {
       image: "/images/bansitech_img.png",
       technologies: ["React", "JavaScript", "CSS", "HTML"],
       githubUrl: "https://github.com/Harsh-Vardhan-Yadav-03/Bansiwale-Technical",
-      liveUrl: "#",
+      liveUrl: "https://bansi-tech.vercel.app/",
       featured: true
     },
     {
@@ -20,7 +20,7 @@ const Projects = () => {
       image: "/images/EcommerceSS.png",
       technologies: ["React", "TypeScript", "TailwindCSS"],
       githubUrl: "https://github.com/Harsh-Vardhan-Yadav-03/e-commerce",
-      liveUrl: "#",
+      liveUrl: "https://e-commerce-eight-pi-38.vercel.app/",
       featured: true
     },
     {
@@ -29,7 +29,7 @@ const Projects = () => {
       image: "/images/NetflixClone.png",
       technologies: ["HTML", "CSS"],
       githubUrl: "https://github.com/Harsh-Vardhan-Yadav-03/Netflix_Clone",
-      liveUrl: "#",
+      liveUrl: "https://netflix-clone-rho-virid-16.vercel.app/",
       featured: false
     },
   ];
