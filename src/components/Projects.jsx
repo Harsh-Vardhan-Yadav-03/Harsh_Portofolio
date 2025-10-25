@@ -86,7 +86,11 @@ const Projects = () => {
                   </a>
                 </Button>
                 <Button size="sm" className="flex-1" asChild>
-                  <a href={project.liveUrl}>
+                  <a
+                    href={project.liveUrl}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     <ExternalLink className="mr-2 h-4 w-4" />
                     Demo
                   </a>
